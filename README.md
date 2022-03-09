@@ -1,3 +1,6 @@
+
+https://img.shields.io/endpoint?url=https://www.linkedin.com/in/luke-geyser-760683195/&style=for-the-badge&logo=appveyor
+
 - 👋 Hi, I’m Luke Damian Geyser
 - 👀 I’m interested in writing custom hardware specific applications ranging from Android Services to manage custom hardware features, to building a web 
      portal that will be used to manage these custom hardware solutions in real-time
