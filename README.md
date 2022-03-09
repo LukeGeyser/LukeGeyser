@@ -5,7 +5,7 @@
 - 📫 How to reach me -> you can reach me on my email address : geyserlg@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGeyser&count_private=true&show_icons=true)](https://github.com/LukeGeyser/github-readme-stats)
-![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical)
+![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical&langs_count=10)
 
 <!---
 LukeGeyser/LukeGeyser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
