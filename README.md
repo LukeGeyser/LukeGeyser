@@ -5,7 +5,6 @@
 - 📫 How to reach me -> you can reach me on my email address : geyserlg@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGeyser&count_private=true&show_icons=true)](https://github.com/LukeGeyser/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical)
 
 <!---
