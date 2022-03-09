@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, in order to write custom firmware for micro controllers as well as ReactJS / React Native.
 - 📫 How to reach me -> you can reach me on my email address : geyserlg@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGeyser&layout=compact)](https://github.com/LukeGeyser/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGeyser&layout=compact&count_private=true)](https://github.com/LukeGeyser/github-readme-stats)
 ![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical)
 
 <!---
