@@ -29,6 +29,12 @@
      
 </div>
 
+<h1 align="center">Spotify Playing 🎧</h1>
+<div align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jklf73obgq7ber37hwxtatb3u&width=900)
+
+</div>
 <!---
 LukeGeyser/LukeGeyser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
