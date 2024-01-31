@@ -30,7 +30,7 @@
      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LukeGeyser&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
      
-![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical&langs_count=10)
+<!--![Luke Geyser's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeGeyser&show_icons=true&theme=radical&langs_count=10) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeGeyser&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/LukeGeyser/github-readme-stats)
      
