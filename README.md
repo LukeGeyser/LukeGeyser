@@ -9,10 +9,17 @@
 
 <br/>
 
-- 👀 I’m interested in writing custom hardware specific applications ranging from Android Services to manage custom hardware features, to building a web 
+- 👀 I’m interested in writing custom hardware-specific applications ranging from Android Services that manage custom hardware features, to building a web 
      portal that will be used to manage these custom hardware solutions in real-time
-- 🌱 I’m currently learning C, in order to write custom firmware for micro controllers as well as ReactJS / React Native.
-- 📫 How to reach me -> you can reach me on my email address : geyserlg@gmail.com
+- 🌱 I’m currently learning C, to write custom firmware for microcontrollers as well as ReactJS / React Native.
+- 🖥️ I enjoy and spend a lot of time working on teams that build applications for iOS using the following:
+     - SwiftUI
+     - UIKit
+     - CoreData
+     - CoreLocation
+     - CoreAnimation
+- 🌍 Working with a team to produce concise code that is used by more than a million daily users
+- 📫 How to reach me -> You can reach me at my email address: geyserlg@gmail.com
 
 <h1 align="center">Stats :bar_chart:</h1>
 <br/>
